@@ -4,8 +4,3 @@
 
 
 [Modern day monitoring and control challenges outlined on an industrial-scale benchmark fermentation process](https://www.sciencedirect.com/science/article/pii/S0098135418305106)
-
-
-$ X = 1 $
-
-
